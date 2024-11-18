@@ -8,11 +8,7 @@ Welcome to the Railway Management System! This web-based application is designed
 
 - **Login:** Administrators can securely log in to the system using their credentials.
 - **Dashboard:** A user-friendly dashboard provides an overview of key information, such as train schedules, delays, and reservations.
-- **Train Schedule by Station:** Users can view train schedules for a specific station, including departure and arrival times for different trains.
-- **Train Schedule by Destination:** Users can search for train schedules based on their desired destination, making it easy to plan their journeys.
-- **Train Delays:** The system provides real-time updates on train delays, allowing administrators to manage and communicate delays effectively.
-- **Train Cancellations:** Users are informed about train cancellations promptly, enabling them to make alternate travel arrangements.
-- **Ticket Reservation:** Passengers can reserve tickets for their desired train and route, streamlining the booking process.
+
 
 ## Technologies Used
 
